@@ -1,0 +1,8 @@
+# Progressive Timed Printer
+
+import time
+i = 0
+while True:
+    i = i + 1
+    print("Hello")
+    time.sleep(i)
